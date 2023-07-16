@@ -1,0 +1,21 @@
+{
+	"name": "author-s-oled-theme",
+	"displayName": "Author's OLED Theme",
+	"description": "Author theme, made for OLED screens and for users who want to take care of their eyes on big screens",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Author's OLED Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Author's OLED Theme-color-theme.json"
+			}
+		]
+	}
+}
